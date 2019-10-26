@@ -22,6 +22,7 @@ const styles = StyleSheet.create({
     height: 200,
     width: 240,
     fontSize: 30,
-    borderColor: '#CCC'
+    borderColor: '#CCC',
+    fontWeight:'bold'
   }
 });
